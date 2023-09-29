@@ -1,1 +1,2 @@
-d
+def number_of_sides(n):
+  return(n-2) * 180
